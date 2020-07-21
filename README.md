@@ -5,5 +5,5 @@ Run the following commands in the project folder:
 npm install
 npm start
 
-In order to use the goole maps api, please insert a valid Google API key in the file googleMapsSetting.
+In order to use the Google Maps api, please insert a valid Google API key in the file googleMapsSetting.
 https://developers.google.com/maps/documentation/embed/get-api-key
